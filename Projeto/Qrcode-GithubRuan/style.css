@@ -35,11 +35,6 @@ body {
     overflow: hidden;
 }
 
-.cardintern img {
-    z-index: 1;
-    position: relative;
-}
-
 .cardextern {
     background-color: white;
     width: 320px;
@@ -82,32 +77,4 @@ img {
 
 .attribution a { 
     color: hsl(228, 45%, 44%);
-}
-
-/* Estilos base para os círculos */
-.circle {
-    position: absolute;
-    width: 328px;
-    height: 328px;
-    border-radius: 50%;
-    background-color: rgba(255, 255, 255, 0.07);
-    z-index: 0;
-}
-
-/* Círculo superior esquerdo */
-.circle-1 {
-    top: -160px;
-    left: -130px;
-}
-
-/* Círculo inferior direito */
-.circle-2 {
-    bottom: -160px;
-    right: -130px;
-}
-
-/* Garante que a imagem fique acima dos círculos */
-.cardintern img {
-    z-index: 1;
-    position: relative;
 }
