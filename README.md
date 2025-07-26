@@ -1,97 +1,51 @@
 # MEU GITHUB | Componente de QR CODE 
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+Esta é uma solução para o [desafio do componente de código QR no Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Os desafios do Frontend Mentor ajudam você a aprimorar suas habilidades de programação criando projetos realistas.
 
-## Table of contents
+## Visão geral
 
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
-## Overview
-
-### Screenshot
+### Captura de tela
 
 ![](./screenshot.jpg)
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
+Adicione uma captura de tela da sua solução. A maneira mais fácil de fazer isso é usar o Firefox para visualizar seu projeto, clicar com o botão direito do mouse na página e selecionar "Capturar tela". Você pode escolher uma captura de tela em tamanho real ou recortada, dependendo do tamanho da página. Se for muito longa, pode ser melhor recortá-la.
 
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
+Como alternativa, você pode usar uma ferramenta como o [FireShot](https://getfireshot.com/) para fazer a captura de tela. O FireShot tem uma opção gratuita, então você não precisa comprá-la.
 
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
+Em seguida, recorte/otimize/edite sua imagem como desejar, adicione-a ao seu projeto e atualize o caminho do arquivo na imagem acima.
 
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
+**Observação: Exclua esta observação e os parágrafos acima ao adicionar sua captura de tela. Se preferir não adicionar uma captura de tela, sinta-se à vontade para remover esta seção inteira.**
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- URL da solução: [Adicione a URL da solução aqui](https://your-solution-url.com)
+- URL do site ativo: [Adicione a URL do site ativo aqui](https://your-live-site-url.com)
 
-## My process
+## Meu processo
 
-### Built with
+### Construído com
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
+- Marcação semântica HTML5
+- Propriedades personalizadas CSS
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+### O que eu aprendi
 
-### What I learned
+Use esta seção para recapitular alguns dos seus principais aprendizados ao trabalhar neste projeto. Escrevê-los e fornecer exemplos de código das áreas que você deseja destacar é uma ótima maneira de reforçar seu próprio conhecimento.
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
 
-To see how you can add code snippets, see below:
+### Desenvolvimento contínuo
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
+Use esta seção para delinear áreas nas quais você deseja continuar se concentrando em projetos futuros. Podem ser conceitos com os quais você ainda não está completamente familiarizado ou técnicas que achou úteis e que deseja refinar e aperfeiçoar.
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
+**Observação: Exclua esta observação e o conteúdo desta seção e substitua pelos seus próprios planos para desenvolvimento contínuo.**
 
-**Note: Delete this note and the content within this section and replace with your own learnings.**
+### Recursos úteis
 
-### Continued development
+- [Recurso de exemplo 1](https://www.example.com) - Isso me ajudou por um motivo XYZ. Gostei muito deste padrão e o usarei daqui para frente.
+- [Recurso de exemplo 2](https://www.example.com) - Este é um artigo incrível que me ajudou a finalmente entender XYZ. Eu o recomendo a qualquer pessoa que ainda esteja aprendendo este conceito.
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+**Observação: Exclua esta observação e substitua a lista acima pelos recursos que ajudaram você durante o desafio. Isso pode ser útil para qualquer pessoa que esteja visualizando sua solução ou para você mesmo quando analisar este projeto no futuro.**
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+## Autor
 
-### Useful resources
-
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
-
-## Author
-
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+- Meu Linkedin - [Adicione seu nome aqui](https://www.your-site.com)
